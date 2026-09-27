@@ -1,0 +1,6 @@
+{
+  "name": "PocketLink",
+  "description": "Two-phone remote gameplay, live-streaming, screen-sharing, recording, and replay",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Link Radiowaves / Glow Rings -->
+    <path
+        android:pathData="M34,42 C34,31 43,22 54,22 C65,22 74,31 74,42"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"/>
+    <path
+        android:pathData="M40,46 C40,38 46,32 54,32 C62,32 68,38 68,46"
+        android:strokeColor="#818CF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"/>
+
+    <!-- Controller Body -->
+    <path
+        android:pathData="M32,50 C26,50 22,54 22,64 C22,76 29,84 37,84 C42,84 46,80 50,75 C52,73 56,73 58,75 C62,80 66,84 71,84 C79,84 86,76 86,64 C86,54 82,50 76,50 Z"
+        android:fillColor="#06B6D4" />
+
+    <!-- Controller Face Plate accent -->
+    <path
+        android:pathData="M34,53 C30,53 27,56 26,63 C25,72 31,79 37,79 C41,79 44,75 48,71 C51,68 57,68 60,71 C64,75 67,79 71,79 C77,79 83,72 82,63 C81,56 78,53 74,53 Z"
+        android:fillColor="#0F172A" />
+
+    <!-- D-Pad Left -->
+    <path
+        android:pathData="M37,58 L37,70 M31,64 L43,64"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3"
+        android:strokeLineCap="square"/>
+
+    <!-- Action Buttons Right (Diamond layout) -->
+    <!-- Y button (top) -->
+    <path
+        android:pathData="M71,59 A2,2 0 1,1 71,59.01"
+        android:strokeColor="#A855F7"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"/>
+    <!-- A button (bottom) -->
+    <path
+        android:pathData="M71,69 A2,2 0 1,1 71,69.01"
+        android:strokeColor="#10B981"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"/>
+    <!-- X button (left) -->
+    <path
+        android:pathData="M66,64 A2,2 0 1,1 66,64.01"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"/>
+    <!-- B button (right) -->
+    <path
+        android:pathData="M76,64 A2,2 0 1,1 76,64.01"
+        android:strokeColor="#EF4444"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"/>
+
+    <!-- Center PocketLink Indicator Link dot -->
+    <path
+        android:pathData="M54,63 A3,3 0 1,1 54,63.01"
+        android:strokeColor="#22D3EE"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"/>
+</vector>
